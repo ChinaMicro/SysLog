@@ -32,5 +32,6 @@ d:/events/warn/GuoWei_02_all_warn20190326-225343.xls
 五、 以上的代码中的字符可以根据需要对应改动。
 
 六、执行代码
-    进入Windows的命令行cmd模式，在Python的Anaconda默认目录下执行主程序
+
+   进入Windows的命令行cmd模式，在Python的Anaconda默认目录下执行主程序
     c:\users\user>python savefile.py 日志文件.csv    
