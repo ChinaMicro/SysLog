@@ -34,4 +34,8 @@ d:/events/warn/GuoWei_02_all_warn20190326-225343.xls
 六、执行代码
 
    进入Windows的命令行cmd模式，在Python的Anaconda默认目录下执行主程序
-    c:\users\user>python savefile.py 日志文件.csv    
+    c：\ users \ user> python savefile.py日志文件.csv  
+    
+七，增加主程序版本
+
+    savefile_main.py 作为在命令行执行的代码，增加了输入日志文件是否可读的判断，如果不可读给出提示信息。
