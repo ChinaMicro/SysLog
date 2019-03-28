@@ -3,8 +3,10 @@
 
 一、运行环境
 1.1 Python 3.4以上，本例使用3.6
+
 1.2 安装Anaconda。（http://continuum.io/downloads）其中包含的常用工具包：
     NumPy的，Anaconda，Jupyter。
+    
 1.3 Numpy 1.11以上，本例使用1.14 
 
 二、导出系统日志记录  
