@@ -39,3 +39,4 @@ d:/events/warn/GuoWei_02_all_warn20190326-225343.xls
 七，增加主程序版本
 
     savefile_main.py 作为在命令行执行的代码，增加了输入日志文件是否可读的判断，如果不可读给出提示信息。
+    savefile_main_1.py 增加了导出的日志文件列名不符的提示。
