@@ -28,7 +28,7 @@ path_error = 'd:/events/error' 和
 path_warn = 'd:/events/warn'
 
 四、保存的文件按照系统_类型_日期生成时间命名，以便于批命令自动操作。
-d:/events/error/GuoWei_02_all_error20190326-225343.xls
+d:/events/error/GuoWei_02_all_error20190326-225343.xls和
 d:/events/warn/GuoWei_02_all_warn20190326-225343.xls
 
 五、 以上的代码中的字符可以根据需要对应改动。
