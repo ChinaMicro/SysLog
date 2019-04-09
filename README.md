@@ -27,12 +27,14 @@ SystemLog
 
 2. 运行程序的方式：
 
-	2.1 批命令自动执行方式：
+    2.1 批命令自动执行方式：
+    
 	程序名：syslog-CMD.py 
         进入Windows的命令行cmd模式，
 	在Python的Anaconda默认目录下执行主程序c:\users\user\syslog\>python syslog-CMD.py 日志文件.csv。
 
-	2.2 用Jupyter Notebook手动执行方式： 
+    2.2 用Jupyter Notebook手动执行方式：
+    
         程序名：syslog-Jupyter.py
 	先用NotePad 打开syslog-Jupyter.py文件，将全部代码复制，
 	再进入Jupyter Notebook中，新建一个Floder，命名为syslog，
