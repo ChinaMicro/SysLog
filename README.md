@@ -9,7 +9,7 @@ SystemLog
 1.3 如果已经安装过的 Numpy 要求版本 1.11以上，本例使用1.14。
 
 二，导出系统日志记录
-用Windows事件查看器导出日志时按照详细，选项“错误”和“警告”可以勾选也可以不勾选，代码能够筛选出来，选项“WDI”和“经典”需要勾选，然后保存为CSV格式文件：日志文件.csv ，例如：'20190305_sum_1.csv'
+用Windows事件查看器导出日志时按照详细，选项“错误”和“警告”可以勾选也可以不勾选，代码能够筛选出来，选项“WDI”和“经典”需要勾选，然后保存为CSV格式文件：日志文件.csv ，例如：'20190305_sum_1.csv' 。
 
 三，再将CSV格式的日志文件读入程序操作。处理步骤：
 
@@ -36,11 +36,11 @@ SystemLog
     2.2 用Jupyter Notebook手动执行方式：
         
 	程序名：syslog-Jupyter.py 。	
-	先用NotePad 打开syslog-Jupyter.py文件，将全部代码复制，
-	再进入Jupyter Notebook中，新建一个Folder，命名为syslog(已经有了则不必建立)，
+	先用NotePad 打开syslog-Jupyter.py文件，复制全部代码。
+	再进入Jupyter Notebook中，新建一个Folder，命名为syslog(已经有了则不必建立)。
 	在syslog的Folder中新建一个Python 3的Cell(已经有了则不必建立) , 将复制的syslog-Jupyter.py代码粘贴进去。
 	直接Run。
 
 七，查看经过处理的日志文件
 	 
-	经过处理的日志文件默认存放在d:\events\error\和d:\events\warn中，如果清空目录再执行程序可以自动重建。
+   经过处理的日志文件默认存放在d:\events\error\和d:\events\warn中，如果清空目录再执行程序可以自动重建。
