@@ -37,8 +37,8 @@ SystemLog
     
         程序名：syslog-Jupyter.py
 	先用NotePad 打开syslog-Jupyter.py文件，将全部代码复制，
-	再进入Jupyter Notebook中，新建一个Floder，命名为syslog，
-	在syslog的Folder中新建一个Python 3的Cell , 将复制的syslog-Jupyter.py代码粘贴进去。
+	再进入Jupyter Notebook中，新建一个Folder，命名为syslog(已经有了则不必建立)，
+	在syslog的Folder中新建一个Python 3的Cell(已经有了则不必建立) , 将复制的syslog-Jupyter.py代码粘贴进去。
 	直接Run。
 
 七，查看经过处理的日志文件
