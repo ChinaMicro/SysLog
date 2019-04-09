@@ -29,13 +29,13 @@ SystemLog
 
     2.1 批命令自动执行方式：
     
-	程序名：syslog-CMD.py
+	程序名：syslog-CMD.py 。
         进入Windows的命令行cmd模式，
 	在Python的Anaconda默认目录下执行主程序c:\users\user\syslog\>python syslog-CMD.py 日志文件.csv。
 
     2.2 用Jupyter Notebook手动执行方式：
         
-	程序名：syslog-Jupyter.py	
+	程序名：syslog-Jupyter.py 。	
 	先用NotePad 打开syslog-Jupyter.py文件，将全部代码复制，
 	再进入Jupyter Notebook中，新建一个Folder，命名为syslog(已经有了则不必建立)，
 	在syslog的Folder中新建一个Python 3的Cell(已经有了则不必建立) , 将复制的syslog-Jupyter.py代码粘贴进去。
